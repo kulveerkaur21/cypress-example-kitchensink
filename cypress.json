@@ -1,3 +1,6 @@
 {
-  "projectId": "4b7344"
+  "projectId": "fnx4y5",
+  "env": {
+    "CYPRESS_RECORD_KEY": "aac5585c-e71d-430a-9b8d-ea9a13836034"
+}
 }
